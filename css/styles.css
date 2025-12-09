@@ -126,10 +126,6 @@ a:focus {
   cursor: pointer;
 }
 
-.select::-ms-expand {
-  display: none;
-}
-
 .radio-values {
   display: flex;
   gap: 15px;
