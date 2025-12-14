@@ -705,7 +705,7 @@ a:focus {
   background: var(--second-color-text);
   position: absolute;
   right: 1px;
-  bottom: 8px;
+  bottom: 6px;
 }
 
 .new-price {
